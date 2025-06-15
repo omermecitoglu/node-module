@@ -1,4 +1,28 @@
 {
+  "name": "@omer-x/node-module",
+  "version": "1.0.0",
+  "description": "UPDATE_HERE_WITH_A_MEANINGFUL_DESCRIPTION",
+  "keywords": [
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omermecitoglu/node-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omermecitoglu/node-module/issues"
+  },
+  "homepage": "https://github.com/omermecitoglu/node-module#readme",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Omer Mecitoglu",
+    "email": "omer.mecitoglu@gmail.com",
+    "url": "https://omermecitoglu.github.io"
+  },
+  "license": "MIT",
   "type": "module",
   "files": [
     "dist/"
