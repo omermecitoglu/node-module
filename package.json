@@ -35,6 +35,8 @@
     }
   },
   "scripts": {
+    "lint": "eslint --flag unstable_native_nodejs_ts_config",
+    "lint:fix": "eslint --fix --flag unstable_native_nodejs_ts_config",
     "test": "vitest",
     "test:coverage": "vitest run --coverage",
     "dev": "tsup --watch",
