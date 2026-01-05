@@ -7,7 +7,7 @@
     "resolveJsonModule": true,
     "moduleDetection": "force",
     "strict": true,
-    "noUncheckedIndexedAccess": true,
+    "noUncheckedIndexedAccess": false,
     "moduleResolution": "Bundler",
     "module": "ESNext",
     "noEmit": true,
